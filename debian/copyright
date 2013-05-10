@@ -8,7 +8,7 @@ License: LGPL-2.1 with Digia Qt LGPL Exception 1.1 or GPL-3
 
 Files: debian/*
 Copyright: 2013 Dmitry Shachnev <mitya57@gmail.com>
-License: LGPL-2.1 with Digia Qt LGPL Exception 1.1
+License: LGPL-2.1
 
 License: LGPL-2.1 with Digia Qt LGPL Exception 1.1
  GNU Lesser General Public License version 2.1:
@@ -47,6 +47,17 @@ License: LGPL-2.1 with Digia Qt LGPL Exception 1.1
  .
  Furthermore, you are not required to apply this additional permission to a
  modified version of the Library.
+
+License: LGPL-2.1
+ This file may be used under the terms of the GNU Lesser General Public
+ License version 2.1 as published by the Free Software Foundation and
+ appearing in the file LICENSE.LGPL included in the packaging of this file.
+ Please review the following information to ensure the GNU Lesser General
+ Public License version 2.1 requirements will be met:
+ http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html.
+ .
+ On Debian systems, the complete text of the GNU Lesser General Public License
+ can be found in `/usr/share/common-licenses/LGPL-2.1`.
 
 License: GPL-3
  Alternatively, this file may be used under the terms of the GNU General
