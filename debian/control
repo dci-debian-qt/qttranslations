@@ -19,7 +19,7 @@ Homepage: http://qt-project.org/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/qt/qttranslations.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/qt/qttranslations.git
 
-Package: qttranslations5
+Package: qttranslations5-l10n
 Depends: ${misc:Depends}
 Architecture: all
 Description: translations for Qt 5
