@@ -2,7 +2,14 @@ Source: qttranslations-opensource-src
 Section: localization
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Dmitry Shachnev <mitya57@gmail.com>
+Uploaders: Dmitry Shachnev <mitya57@gmail.com>,
+           Fathi Boudra <fabo@debian.org>,
+           Modestas Vainius <modax@debian.org>,
+           Sune Vuorela <debian@pusling.com>,
+           Pino Toscano <pino@debian.org>,
+           Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+           Felix Geyer <fgeyer@debian.org>,
+           Timo Jyrinki <timo@debian.org>
 Build-Depends: debhelper (>= 9),
                qt5-default,
                qt5-qmake,
