@@ -1,7 +1,8 @@
-qttranslations-opensource-src (5.0.2-1) UNRELEASED; urgency=low
+qttranslations-opensource-src (5.0.2-1) experimental; urgency=low
 
+  [ Dmitry Shachnev ]
   * Initial release. (Closes: #697509)
   * debian/patches/add_license_files.patch: add (L)GPL license files
     (backported from upstream).
 
- -- Dmitry Shachnev <mitya57@gmail.com>  Thu, 09 May 2013 23:22:42 +0400
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 11 May 2013 15:53:22 -0300
