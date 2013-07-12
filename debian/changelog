@@ -1,13 +1,12 @@
-qttranslations-opensource-src (5.1.0-1) UNRELEASED; urgency=low
+qttranslations-opensource-src (5.1.0-1) experimental; urgency=low
 
-  [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
   * Fix watch file.
   * Bump Qt  build dependencies to 5.1.0~.
   * Export QT_SELECT instead of depending on qt5-default.
   * Remove add_license_files.patch, applied upstream.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 11 Jul 2013 21:36:28 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 11 Jul 2013 21:48:00 -0300
 
 qttranslations-opensource-src (5.0.2-1) experimental; urgency=low
 
