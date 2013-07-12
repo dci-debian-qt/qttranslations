@@ -5,6 +5,7 @@ qttranslations-opensource-src (5.1.0-1) UNRELEASED; urgency=low
   * Fix watch file.
   * Bump Qt  build dependencies to 5.1.0~.
   * Export QT_SELECT instead of depending on qt5-default.
+  * Remove add_license_files.patch, applied upstream.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 11 Jul 2013 21:36:28 -0300
 
