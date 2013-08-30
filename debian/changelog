@@ -1,9 +1,8 @@
-qttranslations-opensource-src (5.1.1-1) UNRELEASED; urgency=low
+qttranslations-opensource-src (5.1.1-1) unstable; urgency=low
 
-  [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 30 Aug 2013 18:15:44 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 30 Aug 2013 18:19:40 -0300
 
 qttranslations-opensource-src (5.1.0-2) unstable; urgency=low
 
