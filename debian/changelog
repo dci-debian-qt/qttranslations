@@ -1,6 +1,7 @@
 qttranslations-opensource-src (5.1.1-1) unstable; urgency=low
 
   * New upstream release.
+  * Tight Qt 5 build dpendencies.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 30 Aug 2013 18:19:40 -0300
 
