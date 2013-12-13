@@ -1,10 +1,10 @@
-qttranslations-opensource-src (5.2.0-1) UNRELEASED; urgency=low
+qttranslations-opensource-src (5.2.0-1) experimental; urgency=low
 
   [ Dmitry Shachnev ]
   * New upstream release.
   * Bump qtbase and qttools build-dependencies to 5.2.0.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 30 Oct 2013 10:19:49 +0400
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 13 Dec 2013 14:31:25 -0300
 
 qttranslations-opensource-src (5.1.1-1) unstable; urgency=low
 
