@@ -2,6 +2,7 @@ qttranslations-opensource-src (5.3.0-1) UNRELEASED; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
+  * Bump Qt build dependencies.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 28 May 2014 23:20:46 -0300
 
