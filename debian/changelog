@@ -1,3 +1,7 @@
+qttranslations-opensource-src (5.2.1-3) UNRELEASED; urgency=medium
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 28 May 2014 23:20:46 -0300
+
 qttranslations-opensource-src (5.2.1-2) unstable; urgency=medium
 
   [ Dmitry Shachnev ]
