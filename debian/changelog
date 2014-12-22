@@ -4,6 +4,7 @@ qttranslations-opensource-src (5.4.0-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump Qt build-dependencies to 5.4.0.
   * Update debian/copyright.
+  * Bump Standards-Version to 3.9.6, no changes needed.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 22 Dec 2014 14:16:54 +0300
 
