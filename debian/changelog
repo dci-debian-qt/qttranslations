@@ -1,4 +1,4 @@
-qttranslations-opensource-src (5.4.2-1) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.4.2-1) experimental; urgency=medium
 
   [ Timo Jyrinki ]
   * Update debian/copyright.
@@ -10,7 +10,7 @@ qttranslations-opensource-src (5.4.2-1) UNRELEASED; urgency=medium
     repo in more than a year. They can re add themselves whenever they want
     (and we really hope to see you back really soon!).
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 04 Mar 2015 12:49:13 +0000
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 03 Jun 2015 16:50:19 -0300
 
 qttranslations-opensource-src (5.4.1-1) experimental; urgency=medium
 
