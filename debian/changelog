@@ -1,3 +1,9 @@
+qttranslations-opensource-src (5.4.2-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 24 Jun 2015 17:50:04 -0300
+
 qttranslations-opensource-src (5.4.2-1) experimental; urgency=medium
 
   [ Timo Jyrinki ]
