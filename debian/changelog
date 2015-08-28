@@ -1,3 +1,10 @@
+qttranslations-opensource-src (5.5.0-1) UNRELEASED; urgency=medium
+
+  [ Dmitry Shachnev ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 28 Aug 2015 14:47:35 +0300
+
 qttranslations-opensource-src (5.4.2-2) unstable; urgency=medium
 
   * Upload to unstable.
