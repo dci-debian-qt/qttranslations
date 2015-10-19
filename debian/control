@@ -9,8 +9,8 @@ Uploaders: Dmitry Shachnev <mitya57@debian.org>,
            Felix Geyer <fgeyer@debian.org>,
            Timo Jyrinki <timo@debian.org>
 Build-Depends: debhelper (>= 9),
-               qt5-qmake (>= 5.5.0+dfsg~),
-               qttools5-dev-tools (>= 5.5.0~)
+               qt5-qmake (>= 5.5.1+dfsg~),
+               qttools5-dev-tools (>= 5.5.1~)
 Standards-Version: 3.9.6
 Homepage: http://qt-project.org/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/qt/qttranslations.git
