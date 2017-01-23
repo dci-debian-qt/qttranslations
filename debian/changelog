@@ -1,8 +1,15 @@
-qttranslations-opensource-src (5.7.0-0neon) xenial; urgency=medium
+qttranslations-opensource-src (5.7.1~20161021-1) unstable; urgency=medium
 
-  * New upstream release
+  * New upstream snapshot.
+    - Bump Qt build dependencies.
 
- -- Harald Sitter <sitter@kde.org>  Thu, 13 Oct 2016 14:59:00 +0200
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 26 Oct 2016 18:36:43 -0300
+
+qttranslations-opensource-src (5.6.1-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 13 Jun 2016 11:25:17 -0300
 
 qttranslations-opensource-src (5.6.1-1) experimental; urgency=medium
 
