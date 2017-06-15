@@ -1,9 +1,9 @@
-qttranslations-opensource-src (5.9.0-1) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.9.0-1) experimental; urgency=medium
 
   * New upstream release.
   * Add myself to Uploaders.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Mon, 12 Jun 2017 23:44:35 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 15 Jun 2017 08:47:17 -0500
 
 qttranslations-opensource-src (5.7.1~20161021-1) unstable; urgency=medium
 
