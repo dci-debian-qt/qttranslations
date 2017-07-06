@@ -1,8 +1,9 @@
-qttranslations-opensource-src (5.7.1-0neon) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.9.0-1) experimental; urgency=medium
 
-  * neon build
+  * New upstream release.
+  * Add myself to Uploaders.
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 25 Jan 2017 14:36:54 +0000
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 15 Jun 2017 08:47:17 -0500
 
 qttranslations-opensource-src (5.7.1~20161021-1) unstable; urgency=medium
 
