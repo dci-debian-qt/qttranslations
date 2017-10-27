@@ -1,12 +1,11 @@
-qttranslations-opensource-src (5.9.2-1) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.9.2-1) unstable; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Bump Qt build-dependencies to 5.9.2.
   * Update to debhelper compat level 10.
   * Bump Standards-Version to 4.1.1, no changes needed.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 27 Oct 2017 21:52:24 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Fri, 27 Oct 2017 21:55:13 +0300
 
 qttranslations-opensource-src (5.9.1-1) unstable; urgency=medium
 
