@@ -1,8 +1,9 @@
-qttranslations-opensource-src (5.9.1-0neon) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.9.2-0neon) UNRELEASED; urgency=medium
 
   * 5.9.1
+  * New release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 06 Jul 2017 15:59:58 +0100
+ -- Jonathan Riddell <jr@jriddell.org>  Fri, 10 Nov 2017 11:41:41 +0000
 
 qttranslations-opensource-src (5.9.0-1) experimental; urgency=medium
 
