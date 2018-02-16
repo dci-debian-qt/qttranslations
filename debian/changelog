@@ -4,6 +4,26 @@ qttranslations-opensource-src (5.10.0~beta2-0neon) UNRELEASED; urgency=medium
 
  -- Jonathan Riddell <jr@jriddell.org>  Wed, 13 Sep 2017 13:18:31 +0100
 
+qttranslations-opensource-src (5.9.3-0neon) UNRELEASED; urgency=medium
+
+  * 5.9.1
+  * New release
+  * new release
+
+ -- Jonathan Riddell <jr@jriddell.org>  Wed, 22 Nov 2017 17:23:10 +0000
+
+qttranslations-opensource-src (5.9.2-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.9.2.
+  * Update to debhelper compat level 10.
+  * Bump Standards-Version to 4.1.1, no changes needed.
+  [ Dmitry Shachnev ]
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.9.2.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Fri, 27 Oct 2017 21:55:13 +0300
+
 qttranslations-opensource-src (5.9.1-1) unstable; urgency=medium
 
   * New upstream release.
