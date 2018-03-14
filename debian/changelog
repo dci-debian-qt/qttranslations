@@ -4,6 +4,7 @@ qttranslations-opensource-src (5.10.1-1) UNRELEASED; urgency=medium
   * New upstream release.
     - Bump Qt build dependencies.
   * Switch Vcs-[Git Browser] to salsa.debian.org.
+  * Switch to debhelper compat 11.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 14 Mar 2018 10:54:41 -0300
 
