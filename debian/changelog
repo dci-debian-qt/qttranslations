@@ -1,8 +1,8 @@
-qttranslations-opensource-src (5.9.5-0ubuntu1) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.9.5-0ubuntu1) bionic; urgency=medium
 
   * New upstream release.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 14 Apr 2018 15:56:55 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 14 Apr 2018 15:57:34 -0500
 
 qttranslations-opensource-src (5.9.4-0ubuntu1) bionic; urgency=medium
 
