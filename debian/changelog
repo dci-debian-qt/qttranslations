@@ -1,3 +1,20 @@
+qttranslations-opensource-src (5.10.1-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 07 Apr 2018 19:40:22 -0300
+
+qttranslations-opensource-src (5.10.1-1) experimental; urgency=medium
+
+  * New upstream release.
+    - Bump Qt build dependencies.
+  * Switch Vcs-[Git Browser] to salsa.debian.org.
+  * Switch to debhelper compat 11.
+  * Update Standards-Version to 4.1.3, no changes required.
+  * Update debian/watch to follow upstream's naming conventions.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 14 Mar 2018 10:59:27 -0300
+
 qttranslations-opensource-src (5.10.0-0neon) UNRELEASED; urgency=medium
 
   * 5.10
