@@ -2,6 +2,7 @@ qttranslations-opensource-src (5.11.1-1) UNRELEASED; urgency=medium
 
   [ Simon Quigley ]
   * New upstream release.
+  * Bump Standards-version to 4.1.4, no changes needed.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 30 Jun 2018 17:17:55 -0500
 
