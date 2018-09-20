@@ -1,8 +1,17 @@
-qttranslations-opensource-src (5.11.1-0neon) xenial; urgency=medium
+qttranslations-opensource-src (5.11.1-2) unstable; urgency=medium
 
-  * Release 5.11.1 to neon
+  * Upload to Sid.
 
- -- Bhushan Shah <bshah@kde.org>  Fri, 01 Jun 2018 08:34:07 +0000
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 25 Jul 2018 04:49:32 -0500
+
+qttranslations-opensource-src (5.11.1-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-version to 4.1.4, no changes needed.
+  * Bump build dependencies to 5.11.1.
+  * Fix insecure-copyright-format-uri.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 30 Jun 2018 17:23:40 -0500
 
 qttranslations-opensource-src (5.10.1-2) unstable; urgency=medium
 
