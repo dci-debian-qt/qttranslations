@@ -1,10 +1,10 @@
-qttranslations-opensource-src (5.11.2-2) UNRELEASED; urgency=medium
+qttranslations-opensource-src (5.11.2-2) unstable; urgency=medium
 
-  [ Dmitry Shachnev ]
   * Bump qttools5-dev-tools build-dependency to 5.11.2.
   * Bump Standards-Version to 4.2.1, no changes needed.
+  * Upload to unstable.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 17 Oct 2018 10:33:31 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 17 Oct 2018 10:35:23 +0300
 
 qttranslations-opensource-src (5.11.2-1) experimental; urgency=medium
 
