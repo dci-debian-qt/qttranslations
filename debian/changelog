@@ -1,3 +1,7 @@
+qttranslations-opensource-src (5.11.2-3) UNRELEASED; urgency=medium
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 22 Dec 2018 15:19:46 -0300
+
 qttranslations-opensource-src (5.11.2-2) unstable; urgency=medium
 
   * Bump qttools5-dev-tools build-dependency to 5.11.2.
